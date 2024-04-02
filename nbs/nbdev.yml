@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dataframeviz"
+  site-url: "https://jbwhit.github.io/dataframeviz"
+  description: "Test different dataframe visualizers"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/dataframeviz"
